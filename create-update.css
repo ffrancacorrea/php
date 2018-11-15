@@ -1,0 +1,33 @@
+body{
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+h3{
+    text-align: right;
+    padding-right: 3%;
+    color: rgb(26, 85, 163);
+}
+a{
+    color: inherit;
+    text-decoration: none;
+}
+h2{
+    color: rgb(26, 85, 163);
+}
+input{
+    width: 10%;
+    margin: .5%;
+    border: none;
+    border-bottom: 2px solid rgb(26, 85, 163);
+}
+.btn{
+    color: rgb(26, 85, 163);
+    border: 2px solid rgb(26, 85, 163);
+    border-radius: 1.5rem;
+    padding: .4rem;
+    background-color: white;
+}
+.btn:hover{
+    transform: scale(1.1);
+    transition-duration: .5s;
+}
